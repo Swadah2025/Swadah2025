@@ -8,8 +8,8 @@
 
 <div align="center">
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAMESwadah2025&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swadah2025&layout=compact&theme=radical&hide_border=true)
 
 ### 🏆 Contribution Highlights
 | Metric | Value | Period |
@@ -18,7 +18,7 @@
 | **Current Streak** | **1 day** | Jan 5 |
 | **Longest Streak** | **99 days** | Jun 26, 2025 - Oct 2, 2025 |
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Swadah2025&theme=radical&hide_border=true)
 
 </div>
 
